@@ -1,6 +1,6 @@
 # 👨‍💻 Aman Pratap Singh | Aspiring Software Engineer
 
-Greetings, esteemed developers! I am Aman Pratap Singh, a dedicated programming enthusiast currently progressing through the penultimate year of my undergraduate studies.
+Greetings, esteemed developers! I am Aman, a dedicated programming enthusiast currently progressing through the penultimate year of my undergraduate studies.
 
 ## 🌐 Skills
 - Data Structures
